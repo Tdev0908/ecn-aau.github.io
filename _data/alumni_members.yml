@@ -10,6 +10,14 @@
 #  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
 #  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
+
+
+- name: Ezgi Zeynep Hossein Poor
+  photo: ezgihosseinporr.jpg
+  info: Intern (working with S. Kosta)
+  duration: August 2025
+  education: 4th year Medical Student in Politecnica delle Marche, Italy
+
 - name: Asmad Bin Abdul Razzaque
   photo: asmad.jpg
   info: Guest PhD student at the ECN group during the period 01 feb. 2025 - 31 july 2025, working with Prof. Cedomir Stefanovic. PhD student at Sapienza University of Rome on the topic of Random Multiple Access Protocols (supervisor Prof. Andrea Baiocchi).
@@ -70,11 +78,3 @@
   photo: ralf.jpg
   info: Visiting researcher (working with S. Kosta and C. Stefanovic).
   duration: In the ECN Lab for 6 months in 2023/2024.<br> Professor at Flensburg University of Applied Sciences (<a href= "https://ralfluebben.de/">Personal website</a>).
-
-
-name: Ezgi Zeynep Hossein Poor
-photo: ezgihosseinporr,jpg
-info: intern (working with S. Kosta)
-duration: one month
-education: 4th year Medical Student in Politecnica delle Marche. 
-
