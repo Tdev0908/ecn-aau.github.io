@@ -28,9 +28,9 @@ QUCISAFE represents a novel initiative as the first PQC-QKD hybrid system adopte
 
 In addition to its technical and commercial objectives, QUCISAFE also aims to contribute significantly to the educational and professional landscape in Denmark. By incorporating the project's findings and technologies into the curriculum of the AAU Cybersecurity master's program, the initiative will help develop a new generation of cybersecurity professionals skilled in quantum-safe technologies. Furthermore, through targeted training activities at Terma, the project will enhance the capabilities of the existing workforce, ensuring that Danish companies are well-equipped to safeguard critical infrastructure. This focus on education and training is not only vital for national security but also provides Danish companies with a competitive edge on the international stage, positioning them as leaders in the rapidly evolving field of quantum-safe cybersecurity.
 
-#<figure>
-#<img src="{{ site.url }}{{ site.baseurl }}/images/respic/clever-architecture.png" width="80%" style="display: block;margin-left: auto;margin-right: auto;margin-top:4rem;">
-#</figure>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/qucisafe_impact.jpg" width="80%" style="display: block;margin-left: auto;margin-right: auto;margin-top:4rem;">
+</figure>
 
 ### Partners
 
@@ -47,11 +47,5 @@ In addition to its technical and commercial objectives, QUCISAFE also aims to co
 | **Project website**:                          |                                                                                                                                                                     																|
 | **Website at CORDIS (Horizon Europe)**:       | 																								                                                                                                                                    |
 | **Website at Innovation Fund Denmark (IFD)**: | 																	                                                                                                                                                                |
-
-#<figure class="fourth">
-#  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-eu-cofunded.png" style="width: 210px">
-#  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-kdt-ju.gif" style="width: 110px">
-#  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ifd.png" style="width: 120px">
-#</figure>
 
 #### Project: QUCISAFE — Thomas B. Thriges Fond
