@@ -69,3 +69,15 @@
     url: maresec
     display: More details
   highlight: 1
+
+  - title: "QUCISAFE: Quantum-resistant Critical Infrastructure through PQC and QKD integration in the Cloud-Edge-IoT Continuum"
+  image: logo_qucisafe.png
+  description: TBD
+  people: Sokol Kosta (PI), Edlira Dushku (co-PI), Mieszko Ferens (PostDoc), Samant Khajuria (Partner), Idelfonso Tafur Monroy (Partner)
+  funding: Thomas B. Thriges Fond
+  budget: 2 599 834 DKK
+  duration: 01/04/2025 → 30/09/2027
+  link:
+    url: qucisafe
+    display: More details
+  highlight: 1
