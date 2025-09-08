@@ -70,7 +70,7 @@
     display: More details
   highlight: 1
 
-  - title: "QUCISAFE: Quantum-resistant Critical Infrastructure through PQC and QKD integration in the Cloud-Edge-IoT Continuum"
+- title: "QUCISAFE: Quantum-resistant Critical Infrastructure through PQC and QKD integration in the Cloud-Edge-IoT Continuum"
   image: logo_qucisafe.png
   description: TBD
   people: Sokol Kosta (PI), Edlira Dushku (co-PI), Mieszko Ferens (PostDoc), Samant Khajuria (Partner), Idelfonso Tafur Monroy (Partner)
