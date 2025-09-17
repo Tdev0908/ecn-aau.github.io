@@ -16,26 +16,23 @@
   url: "https://www.es.aau.dk/phd-defence-by-mieszko-jan-ferens-michalek-e146562"
   author: "Mieszko Jan Ferens Michalek"
   image: mieszko-phd.jpg
-  excerpt: "PhD Thesis Title: Practical and Low-Cost Authentication using Physical Unclonable Function for Resource-Constrained IoT Devices <br>
+  excerpt: "<b>PhD Thesis Title:</b> Practical and Low-Cost Authentication using Physical Unclonable Function for Resource-Constrained IoT Devices <br>
   <b>Supervisors</b><br>
-    <ul>
-    <li>Associate Professor Sokol Kosta, Aalborg University</li>
-    <li>Assistant Professor Edlira Dushku, Aalborg University</li>
-  </ul>
+    --Associate Professor Sokol Kosta, Aalborg University<br>
+    --Assistant Professor Edlira Dushku, Aalborg University<br>
   <br>
   <b>Assessment Committee</b>
-  <ul>
-    <li>Associate Professor Rasmus Løvenstein Olsen, Aalborg University (chairman)</li>
-    <li>Associate Professor Alessandro Bruni, IT-University of Copenhagen</li>
-    <li>Associate Professor Angelo Spognardi, Sapienza University of Rome</li>
-  </ul>
   <br>
-  <b>Moderator</b>
-  <ul>
-    <li>Associate Professor Reza Tadayoni, Aalborg University</li>
-  </ul>
+    --Associate Professor Rasmus Løvenstein Olsen, Aalborg University (chairman)<br>
+    --Associate Professor Alessandro Bruni, IT-University of Copenhagen<br>
+    --Associate Professor Angelo Spognardi, Sapienza University of Rome<br>
+
   <br>
-  <b>Abstract</b>
+  <b>Moderator</b><br>
+    --Associate Professor Reza Tadayoni, Aalborg University<br>
+
+  <br>
+  <b>Abstract</b><br>
   Internet-of-Things (IoT) security faces an important challenge at the hardware level due to the low-cost nature of the devices. This problem motivates the use of lightweight alternative primitives, including a hardware-based fingerprinting solution called the Physical Unclonable Function (PUF).
 PUFs exploit random manufacturing variations of Integrated Circuits (IC) to generate a unique fingerprint that is nearly impossible to replicate physically. However, while physically unclonable, in practice PUFs can become predictable when a portion of input-output mappings are known, leading to the development of modeling attacks.
 This Ph.D. thesis presents contributions that focus on the development of lightweight PUF authentication systems by considering both defensive solutions and novel modeling attacks. First, we provide two novel zero-overhead defensive techniques that exploit different input-output mapping, namely, Selective Challenge-Response Pairs (Selective CRPs) and the Predictive Adversarial System (PAS). Second, we consider the possibility of improved modeling attacks, for which we explore Deep Reinforcement Learning (DRL). Finally, we approach efficient system integration as an alternative method to develop low-cost PUF authentication by combining PUF and Quantum Key Distribution (QKD).<br>"
