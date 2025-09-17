@@ -72,7 +72,7 @@
 
 - title: "QUCISAFE: Quantum-resistant Critical Infrastructure through PQC and QKD integration in the Cloud-Edge-IoT Continuum"
   image: logo_qucisafe.png
-  description: TBD
+  description: The project addresses the growing cyber threats posed by quantum computers to critical infrastructure by developing an advanced hybrid security framework that integrates Post-Quantum Cryptography (PQC) and Quantum Key Distribution (QKD) technologies. This initiative responds to the urgent need for quantum-resilient security solutions, as demonstrated by the increasing frequency and severity of cyberattacks on critical infrastructure. By combining the practical benefits of PQC, such as ease of implementation and cost-effectiveness, with the unbreakable key exchange capabilities of QKD, QUCISAFE creates a comprehensive defense mechanism tailored for the Cloud-Edge-IoT continuum.
   people: Sokol Kosta (PI), Edlira Dushku (co-PI), Mieszko Ferens (PostDoc), Samant Khajuria (Partner), Idelfonso Tafur Monroy (Partner)
   funding: Thomas B. Thriges Fond
   budget: 2 599 834 DKK

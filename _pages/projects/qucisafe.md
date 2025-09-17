@@ -41,11 +41,9 @@ In addition to its technical and commercial objectives, QUCISAFE also aims to co
 |                                               |                                                                                                                                                                                                                                   |
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **People involved**:                          | Sokol Kosta (PI), Edlira Dushku (co-PI), Mieszko Ferens (PostDoc), Samant Khajuria (Partner), Idelfonso Tafur Monroy (Partner)																									|
-| **Funding source**:                           | EU Chips Joint Undertaking (Chips JU) and its members including top-up funding by the Innovation Fund Denmark (IFD)                                                                                                               |
+| **Funding source**:                           | Thomas B. Thriges Fond                                                                                                               |
 | **Budget**:                                   | 2 599 834 DKK                                                                                                                                                                               										|
 | **Duration**:                                 | 01/04/2025 → 30/09/2027                                                                                                                                                                                                           |
 | **Project website**:                          |                                                                                                                                                                     																|
-| **Website at CORDIS (Horizon Europe)**:       | 																								                                                                                                                                    |
-| **Website at Innovation Fund Denmark (IFD)**: | 																	                                                                                                                                                                |
 
 #### Project: QUCISAFE — Thomas B. Thriges Fond
