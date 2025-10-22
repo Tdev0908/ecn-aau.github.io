@@ -21,19 +21,19 @@ permalink: /projects/maresec
 The ocean plays a major role as a foundation upon which modern societies have amassed their wealth, transforming it into
 a hub for food, energy, and trade. Even the name København -meaning "merchant's harbor"- reflects connection with 
 the ocean. The city flourished through its coastal location and the development continues until today. Denmark always 
-strive to use sustainable energy and tries to diminish the impact of such practices to the environment. xtensive coastal 
+strive to use sustainable energy and tries to diminish the impact of such practices to the environment. Extensive coastal 
 and offshore infrastructure is under development to ensure the security of supply and progress towards decarbonization. 
 However, marine environment is not an exactly safe place, making protecting these assets against waterborne threats a 
 formidable task.
 
 The National Defence Technology Centre, aiming to contribute to a critical technological boost of the Danish Armed Forces 
-and the Danish defence industry, tries MARESEC to demonstrates real-time seabed-to-sky mapping and surveillance of Danish
+and the Danish defence industry, tries MARESEC to demonstrate real-time seabed-to-sky mapping and surveillance of Danish
 critical maritime infrastructures (CMI) by developing, integrating, and validating an autonomous multi-agent marine 
 system (AM2S).
 
 ## Strategic Objective
 
-| No. | Description                                                                                                                                         |
+| Nr. | Description                                                                                                                                         |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | To create multiple datasets including navigation, acoustic and optical data collected from both ASV and ROV                                         |
 | 2   | To develops edge- and cloud-based sensor fusion solutions to integrate the different data into a cohesive high-resolution map of the infrastructure |
@@ -61,13 +61,13 @@ cellular connectivity. As MARESEC is used to gather critical maritime infrastruc
 within AM2S and AM2S-to-cloud is essential. In addition, framework to secure data at rest in the edge devices will be 
 implemented. Finally, post-quantum algorithms will be utilized to secure communication against future quantum-based threats.
 
-|                      |                                                                                          |
-|----------------------|------------------------------------------------------------------------------------------|
-| **People involved**: | Sokol Kosta (co-PI), Cedomir Stefanovic, Edlira Dushku, Rifqi Juli Indrayanto            |
-| **Funding source**:  | NFC - Nationalt Forsvarsteknologisk Center                                               |
-| **Budget**:          | DKK 1 170 000,00                                                                         |
-| **Duration**:        | 01/03/2025 → 31/03/2026                                                                  |
-| **Partners**:        | Danmarks Tekniske Universitet, UVision, Teledyne Marine, TUCO Marine                     |
+|                      |                                                                               |
+|----------------------|-------------------------------------------------------------------------------|
+| **People involved**: | Sokol Kosta (co-PI), Cedomir Stefanovic, Edlira Dushku, Rifqi Juli Indrayanto |
+| **Funding source**:  | NFC - Nationalt Forsvarsteknologisk Center                                    |
+| **Budget**:          | DKK 1 170 000,00                                                              |
+| **Duration**:        | 01/03/2025 → 28/02/2026                                                       |
+| **Partners**:        | Danmarks Tekniske Universitet, UVision, Teledyne Marine, TUCO Marine          |
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nfc.webp" style="width: 180px">
