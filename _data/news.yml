@@ -11,10 +11,29 @@
 #   image: 
 #   excerpt:
 
+- date: 12. December 2025
+  title: "Three papers published at IEEE Globecom 2025"
+  url: "https://globecom2025.ieee-globecom.org/program/symposium-program"
+  author: "S. Kosta"
+  image: globecom.jpg
+  excerpt:
+    "
+    Our group presented three first-author papers at the IEEE Global Communications Conference, 8–12 December 2025, Taipei, Taiwan.<br>
+    Congrats to all the authors.<br>
+Energy-Efficient Multi-UAV-Assisted Integrated Sensing, Communication, and Computing for Remote Areas<br>
+Yan Kyaw Tun (Aalborg University, Denmark); Nway Nway Ei (Kyung Hee University, Korea (South)); Sheikh Salman Hassan (The University of Edinburgh, United Kingdom (Great Britain)); Madyan Alsenwi (University of Luxembourg, Luxembourg); Čedomir Stefanović (Aalborg University, Denmark); Zhu Han (University of Houston, USA); Choong Seon Hong (Kyung Hee University, Korea (South))
+<br><br>
+PU-QKD: Enhancing Authentication of Quantum Key Distribution via Physical Unclonable Function<br>
+Mieszko Ferens and Edlira Dushku (Aalborg University, Denmark); Simon Rommel and Idelfonso Tafur Monroy (Eindhoven University of Technology, The Netherlands); Sokol Kosta (Aalborg University, Denmark)
+<br><br>
+SNSVS: Scalable Network Slicing with Virtualized Systems using Post-Quantum Cryptography<br>
+Dimosthenis Iliadis-Apostolidis (NVIDIA Corporation Ltd., Denmark & Aalborg University, Denmark); Daniel C Lawo (Nvidia Corporation, Germany & Eindhoven University of Technology, The Netherlands); Sokol Kosta (Aalborg University, Denmark); Juan José Vegas Olmos (NVIDIA Corporation, Israel)<br>
+"
+
 - date: 5. September 2025
   title: "PhD Defence - Mieszko Jan Ferens Michalek"
   url: "https://www.es.aau.dk/phd-defence-by-mieszko-jan-ferens-michalek-e146562"
-  author: "Mieszko Jan Ferens Michalek"
+  author: "S. Kosta"
   image: mieszko-phd.jpg
   excerpt: "<b>PhD Thesis Title:</b> Practical and Low-Cost Authentication using Physical Unclonable Function for Resource-Constrained IoT Devices <br>
   <b>Supervisors</b><br>
