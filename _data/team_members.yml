@@ -93,22 +93,6 @@
   education2: B.Sc. in Web Technologies and Multimedia, University of Udine, Italy
   education3:
   education:
-  
-- name: Wenrui Yu
-  photo: wenrui.jpg
-  info: Research assistant on the <a href="https://ecn-aau.github.io/projects/clever">EU Chips-JU CLEVER project</a>, started January 2025 (supervisor S. Kosta).
-  email: wenyu@es.aau.dk
-  number_educ: 2
-  education1: M.Sc. in Electrical Engineering, TU Delft, the Netherlands
-  education2: B.Sc. in Electronical and Information Engineering, Sichuan University, China
-
-- name: Xiaoyu Luo
-  photo: Xiaoyu.jpg
-  info: Research assistant on the <a href="https://ecn-aau.github.io/projects/clever">EU Chips-JU CLEVER project</a>, started April 2025 (supervisor S. Kosta).
-  email: xilu@cs.aau.dk
-  number_educ: 2
-  education1: M.Sc. in Computer Science and Engineering, Politecnico di Milano, Italy
-  education2: B.Sc. in Computer Science and Technology, Beijing University of Technology, China
 
 - name: Ting-Hui Cheng
   photo: Tinghui.jpg
