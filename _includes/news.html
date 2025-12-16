@@ -4,6 +4,8 @@
 
 {% for news in site.data.news limit:9 %}
 <p>
+<!--    Sokol: Before the url was pointing to the outside link, as in the comment below -->
+    <!--    "{{news.url}}" -->
     <b><a style="color: inherit;" href="{{ site.url }}{{ site.baseurl }}/allnews.html">{{ news.title | markdownify}}</a></b>
     <i>{{ news.date }}, by {{ news.author}}</i>
     <div style="min-height: 2rem;"></div>
