@@ -11,6 +11,7 @@
 #   image: 
 #   excerpt:
 
+
 - date: 12. December 2025
   title: "Three papers published at IEEE Globecom 2025"
   url: "https://globecom2025.ieee-globecom.org/program/symposium-program"
@@ -28,6 +29,31 @@ Mieszko Ferens and Edlira Dushku (Aalborg University, Denmark); Simon Rommel and
 <br><br>
 <b>SNSVS: Scalable Network Slicing with Virtualized Systems using Post-Quantum Cryptography</b><br>
 Dimosthenis Iliadis-Apostolidis (NVIDIA Corporation Ltd., Denmark & Aalborg University, Denmark); Daniel C Lawo (Nvidia Corporation, Germany & Eindhoven University of Technology, The Netherlands); Sokol Kosta (Aalborg University, Denmark); Juan José Vegas Olmos (NVIDIA Corporation, Israel)<br>
+"
+
+- date: 11. December 2025
+  title: "Michele Zanitti presents paper at IEEE BigData '25"
+  url: "https://conferences.cis.um.edu.mo/ieeebigdata2025/detailed_program.html"
+  author: "S. Kosta"
+  image: michele-big-data.jpg
+  excerpt:
+    "
+    Michele Zanitti presented the paper, “A Contrastive Variational Autoencoder for NSCLC Survival Prediction with Missing Modalities”, Michele Zanitti, Vanja Miskovic, Francesco Trovò, Alessandra Laura Giulia Pedrocchi, Ming Shen, Yan Kyaw Tun, Arsela Prelaj, and Sokol Kosta. <br><br>
+
+    In collaboration with Aalborg University, Politecnico di Milano, and the Istituto Nazionale dei Tumori (Milan), we tackled the ubiquitous challenge of missing modalities in multimodal learning, with a particular focus on lung cancer prognosis. Our motivation was to develop robust models under incomplete modality conditions.<br><br>
+
+    The participation was supported by the HEU project <a href='/projects/i3lung'>I3LUNG</a>, the travel grants from the Otto Mønsted Foundation Denmark, and IEEE BigData.<br><br>
+"
+
+- date: 11. December 2025
+  title: "Michele Zanitti receives IEEE BigData Travel Grant"
+  url: "https://conferences.cis.um.edu.mo/ieeebigdata2025/travel_awards.html"
+  author: "S. Kosta"
+  image: michele-travel-grant.jpg
+  excerpt:
+    "
+    Michele Zanitti received the IEEE BigData Travel Grant for attending the conference in Macau.<br><br>
+
 "
 
 - date: 5. September 2025
