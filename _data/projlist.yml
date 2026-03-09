@@ -46,18 +46,6 @@
     display: More details
   highlight: 1
 
-- title: "FGPE++: Gamified Programming Learning at Scale"
-  image: logo_FGPE.jpg
-  description: The project aims is to provide a framework for application of gamification to programming education, including the specifications, collection of gamified exercises and software. The project aims at increasing the educational potential of the FGPE framework by enhancing its usability for both students and teachers, by (1) enabling the automatic generation of gamified programming exercises, (2) enabling the effective use of the FGPE programming learning environment on mobile devices which are, for some period, disconnected from the Internet, (3) developing a full-fledged open online course for a popular programming language.
-  funding: EU Erasmus+
-  budget: 250K EUR
-  people: Sokol Kosta (PI), André Oliveira Barbosa (student helper), Ting-Hui Cheng (student helper)
-  duration: 01/10/2023 → 30/09/2025
-  link:
-    url: fgpe_plus_plus
-    display: More details
-  highlight: 1
-
 - title: "MARESEC - Autonomous Mapping for Surveillance of Critical Maritime Infrastructure"
   image: logo_nfc.webp
   description: MARESEC demonstrates real-time seabed-to-sky mapping and surveillance of Danish critical maritime infrastructures (CMI) by developing, integrating, and validating an autonomous multi-agent marine system (AM2S).
