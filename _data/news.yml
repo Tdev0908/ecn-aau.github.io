@@ -11,6 +11,20 @@
 #   image: 
 #   excerpt:
 
+- date: 5. March 2026
+  title: "The Chips-JU CLEVER project final review"
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7435393980596596736/"
+  author: "S. Kosta"
+  image: clever-photo.jpg
+  excerpt:
+    "
+    Today we successfully held the final review of the CLEVER-project. It has been an exciting 3-year period of close collaboration with great academic and industrial partners.<br>
+    Our GPU virtualization service (GVirtuS) has been significantly enhanced during the project, being now able to support the latest AI models and Python libraries, and we are ready to bring it on to the next level with student thesis and more research projects.<br>
+    Edit to add: a big thanks to those that have directly contributed to GVirtuS: Darshan K T, Nikhil B Gaikwad, Wenrui Yu, Xiaoyu Luo, Ting-Hui Cheng, Theodoros Aslanidis, Ralf Lübben, Raffaele Montella.<br>
+    And also a thanks to our closest project collaborators: the coordinator Luca Valcarenghi and manager Filippo Paolicchi Da Marciaso from Scuola Superiore Sant'Anna, Idelfonso Tafur Monroy and Simon Rommel from Eindhoven University of Technology, Juan Jose (JJ) Vegas Olmos from NVIDIA, Michelangelo Guaitolini from Scuola Superiore Sant'Anna, and many more.<br>
+    Finally, the biggest thanks goes to the funding bodies Chips Joint Undertaking and Innovation Fund Denmark for their support.<br>
+"
+
 
 - date: 12. December 2025
   title: "Three papers published at IEEE Globecom 2025"
