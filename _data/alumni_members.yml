@@ -11,6 +11,24 @@
 #  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
 
+- name: Luca Sparapani
+  photo: luca_sparapani.jpg
+  info: Visiting Research Intern (working with S. Kosta on the on the <a href="https://ecn-aau.github.io/projects/qucisafe">QUCISAFE project</a>)
+  duration: March – July 2026
+  email: sparapani.2171093@studenti.uniroma1.it
+  number_educ: 2
+  education1: BSc in Computer Engineering, Roma Tre University, Rome, Italy
+  education2: MSc in Cybersecurity (ongoing), Sapienza University of Rome, Italy
+
+
+- name: Ting-Hui Cheng
+  photo: Tinghui.jpg
+  info: Student helper (May 2025 - Jul. 2025) on the <a href="https://ecn-aau.github.io/projects/fgpe_plus_plus">Erasmus+ FGPE++ project</a> and research assistant (Aug. 2025 - Dec. 2025) on the <a href="https://ecn-aau.github.io/projects/clever">EU Chips-JU CLEVER project</a> (supervisor S. Kosta).
+  email: tinghc@es.aau.dk
+  number_educ: 2
+  education1: M.Sc. in Human-Centered Artificial Intelligence, Technical University of Denmark, Denmark
+  education2: B.Sc. in Biomechatronics Engineering, National Taiwan University, Taiwan
+
 - name: Wenrui Yu
   photo: wenrui.jpg
   info: Research assistant on the <a href="https://ecn-aau.github.io/projects/clever">EU Chips-JU CLEVER project</a>, Jan. 2025 - Oct. 2025 (supervisor S. Kosta). Now PhD student at ES Department, AAU.
@@ -103,12 +121,3 @@
   photo: ralf.jpg
   info: Visiting researcher (working with S. Kosta and C. Stefanovic).
   duration: In the ECN Lab for 6 months in 2023/2024.<br> Professor at Flensburg University of Applied Sciences (<a href= "https://ralfluebben.de/">Personal website</a>).
-
-- name: Luca Sparapani
-  photo: luca_sparapani.jpg
-  info: Visiting Research Intern (working with S. Kosta)
-  duration: March – July 2026
-  email: sparapani.2171093@studenti.uniroma1.it
-  number_educ: 2
-  education1: BSc in Computer Engineering, Roma Tre University, Rome, Italy
-  education2: MSc in Cybersecurity (ongoing), Sapienza University of Rome, Italy
